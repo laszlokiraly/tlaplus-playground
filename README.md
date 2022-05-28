@@ -21,3 +21,4 @@ Playground Project for learning TLA+ from [The TLA+ Video Course](https://lampor
 
 - [Dockerfile](https://github.com/hackenfreude/docker-tlatoolbox-1.5.2)
 - eventually https://github.com/tlaplus-workshops/ewd998
+- http://lamport.azurewebsites.net/tla/learning.html
