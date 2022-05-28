@@ -1,0 +1,8 @@
+
+{
+    "name": "TLA+ Docker Container",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+		"alygin.vscode-tlaplus"
+	]
+}
