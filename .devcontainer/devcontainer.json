@@ -1,8 +1,11 @@
-
 {
-    "name": "TLA+ Docker Container",
-    "dockerFile": "Dockerfile",
-    "extensions": [
-		"alygin.vscode-tlaplus"
-	]
+  "name": "TLA+ Docker Container",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "alygin.vscode-tlaplus",
+    "tomoki1207.pdf"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/zsh"
+  }
 }

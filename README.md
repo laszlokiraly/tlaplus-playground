@@ -5,15 +5,17 @@ Playground Project for learning TLA+ from [The TLA+ Video Course](https://lampor
 
 ## Prerequisites
 
-- *Docker*
-- *Visual Studio Code* with *Remote Containers* extension
+- **Docker**
+- **Visual Studio Code** with **Remote Containers** extension
 
 ## Setup
 
 - clone repo
-- open folder in *Visual Studio Code*
-- ctrl-shift-p *Remote-Containers: Rebuild and Reopen in Container*
-- test setup by rightclicking *SimpleProgram.tla* and selecting *Check model with TLC*: Status should be green/success
+- open folder in **Visual Studio Code**
+- `ctrl-shift-p` **Remote-Containers: Rebuild and Reopen in Container**
+- test setup by
+  - rightclicking **SimpleProgram.tla** and selecting **Check model with TLC**: Status should be green/success
+  - selecting **SimpleProgram.tla** and `ctrl-shift-p` **TLA+: Export module to PDF**
 
 ## References
 
