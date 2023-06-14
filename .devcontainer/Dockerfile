@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:stable-slim
 
 RUN apt-get update && apt-get install --assume-yes --no-install-recommends \
 	default-jre \
